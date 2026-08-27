@@ -1,5 +1,5 @@
 
-# 🎙️ MeetingCompanion — Speech-to-Text Automatisierung
+# MeetingCompanion — Speech-to-Text Automatisierung
 
 Eine Webanwendung, die Meetings per Knopfdruck aufzeichnet, automatisch transkribiert und in eine strukturierte, thematisch gegliederte Zusammenfassung verwandelt — exportierbar als PDF.
 
@@ -7,7 +7,7 @@ Entstanden im Rahmen eines Hochschulprojekts von **Sven Schirmaier, Marcel Ritte
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 **Startseite**
 Einstieg über eine Landingpage, die direkt zur Aufnahme führt.
@@ -26,7 +26,7 @@ Die KI gruppiert die besprochenen Inhalte thematisch in einzelne Karten und expo
 
 ---
 
-## ✨ Funktionen
+## Funktionen
 
 - **Meeting-Aufnahme im Browser**: Aufnahme starten per Klick, ohne zusätzliche Software
 - **Speech-to-Text**: Automatische Transkription der Aufnahme
@@ -36,7 +36,7 @@ Die KI gruppiert die besprochenen Inhalte thematisch in einzelne Karten und expo
 
 ---
 
-## 🛠️ Technischer Aufbau
+## Technischer Aufbau
 
 **Frontend**
 - Reines **HTML5**, **CSS3** und **JavaScript** (ES-Module) — kein Framework
@@ -55,7 +55,7 @@ Die KI gruppiert die besprochenen Inhalte thematisch in einzelne Karten und expo
 
 ---
 
-## 📁 Projektstruktur
+## Projektstruktur
 
 ```
 ├── home.html                 # Landingpage
@@ -72,7 +72,7 @@ Die KI gruppiert die besprochenen Inhalte thematisch in einzelne Karten und expo
 
 ---
 
-## 🚀 Lokal ausführen
+## Lokal ausführen
 
 1. Einen **Hugging Face Access Token** erstellen und unter "Inference" alle drei Berechtigungen aktivieren
 2. **Node.js** und **npm** installieren
