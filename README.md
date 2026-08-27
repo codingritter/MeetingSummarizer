@@ -95,6 +95,6 @@ Die KI gruppiert die besprochenen Inhalte thematisch in einzelne Karten und expo
 
 ---
 
-## 👥 Team
+## Team
 
 Sven Schirmaier · Marcel Ritter Buisan · Noam Hartmann · Maximilian Flack
